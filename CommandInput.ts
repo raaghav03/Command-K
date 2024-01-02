@@ -1,0 +1,1 @@
+// this is the component for the input bar of the command input.
