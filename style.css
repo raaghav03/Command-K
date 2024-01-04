@@ -1,0 +1,13 @@
+/* style.css */
+.command-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 10px;
+    flex-grow: 1;
+}
+
+.command-icon {
+    width: 20px;
+    height: 20px;
+}
