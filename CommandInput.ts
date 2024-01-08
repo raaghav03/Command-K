@@ -11,9 +11,7 @@ class CommandInput {
 
     render(containerId: string): void {
         const container = document.getElementById(containerId);
-        if (!container) {
-            throw new Error(`Container with id '${containerId}' not found`);
-        }
+        
 
         const inputElement = document.createElement('input');
         inputElement.type = 'text';
